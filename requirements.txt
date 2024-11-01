@@ -1,0 +1,17 @@
+bs4==0.0.1
+catppuccin==2.3.4
+DateTime==5.4
+ddddocr==1.5.5
+fake-useragent==1.5.1
+matplotlib==3.8.1
+matplotlib-inline==0.1.6
+numpy==1.26.1
+pandas==2.1.2
+Pillow==10.1.0
+PyAutoGUI==0.9.54
+pycaw==20240210
+pypiwin32==223
+pywin32==306
+pywin32-ctypes==0.2.2
+requests==2.31.0
+selenium==4.25.0
