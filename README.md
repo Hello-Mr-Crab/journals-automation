@@ -6,7 +6,7 @@
      |
      |_ _ _pictures_ _ _
      |           |_ _ _Background:存放背景图片的文件夹(py文件)
-     |           | _ _ _Icons：存放Icon的文件夹(py文件
+                | _ _ _Icons：存放Icon的文件夹(py文件
      |_ _ _utils_ _ _
      |          |_ _ _ system settings.py:windows系统设置的一些函数
      |          |_ _ _Toools.py:一些有用的函数
