@@ -2,7 +2,7 @@
 
 项目版本：8.0
 
-环境	     版本
+环境	     版本\n
 OS	       Windows 10|11
 
 Browserdriver：	Edgedriver(与自身Edge版本一致)https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/?form=MA13LH 点此跳转至Edgedriver官网
@@ -14,7 +14,7 @@ Python	     Python 3.X
 
 自动化论文下载支持：
 -------------------------------------------------------------------------------------------------------------------------                                   
-期刊名称	                网站                                      
+期刊名称	                                   网站                                      
 中国科学: 信息科学	            SCIENTIA SINICA (sciengine.com)                        
 光学学报	               https://prj.opticsjournal.net/j/gxxb/news/pt080617000042qmtp.html         
 电子学报	                ACTA ELECTONICA SINICA (ejournal.org.cn)
