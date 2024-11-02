@@ -13,9 +13,6 @@ import requests
 import pyautogui
 import threading
 from pandas import DataFrame
-
-
-
 from time import sleep
 from time import strftime
 from datetime import datetime
@@ -68,12 +65,10 @@ from utils.Tools import Speak
 from utils.Tools import Drawsystem
 from utils.Tools import get_windows_scaling_factor
 plt.rcParams['font.sans-serif']=['SimHei']
-IEEExplore_url='https://ieeexplore.ieee.org/Xplore/home.jsp'#IEEEexplore的网址
-Googleschloar_url='https://scholar.lanfanshu.cn/'
-SUES='https://www.sues.edu.cn/'#学校官网
-Cnki='https://www.cnki.net/' #知网网址   
-
-
+IEEExplore_url='https://ieeexplore.ieee.org/Xplore/home.jsp'#IEEEexplore url
+Googleschloar_url='https://scholar.lanfanshu.cn/'#谷歌学术镜像网站url
+SUES='https://www.sues.edu.cn/'#SUES学校url
+Cnki='https://www.cnki.net/' #知网url
 ##############################################################################
 '''自动化搜索结果统计'''
 def search_cnki(search_element,flag): 
@@ -390,7 +385,7 @@ def search_google(search_element,flag=0):
     close_Listening_mode()
     return final_result
 
-def get_time():
+def get_time():#time.strftime获取时间戳
     year=strftime("%Y")
     month=strftime("%m")
     week=int(strftime("%w"))
@@ -403,14 +398,13 @@ def get_time():
     clock=tk.Label(main_canvas,text=time_now,font=15,fg="#000000",bg="#F3C5FF")
     clock.grid(row=1,column=1,pady=20)
     if root.winfo_exists():
-        root.after(1000,get_time)
+        root.after(1000,get_time)#每隔1s回调函数自身,更新时间
     
 def IEEE():
     Iroot=tk.Toplevel()
     Iroot.geometry("1410x1100")
     Iroot.resizable(True,True)
     Iroot.title("IEEE自动化搜索结果统计")
- 
     Iroot.iconphoto(True,Base64_to_Image(IEEE_icon.img,100,100))
     frame=tk.Frame(Iroot,bg='#d7e8f0')
     frame.pack(fill="both",expand=True)
