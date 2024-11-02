@@ -1,1 +1,0 @@
-account_and_pasword={"account": "MjAyMjIxMDkwOQ==", "password": "d2hySlk2NTA5Nndocg=="}
