@@ -2,13 +2,13 @@
 
 项目版本：8.0
 
-环境	     版本
+环境					版本
 
-OS	       Windows 10|11
+OS						Windows 10|11
 
-Browserdriver：	Edgedriver(与自身Edge版本一致)https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/?form=MA13LH 点此跳转至Edgedriver官网
+Browserdriver：		Edgedriver(与自身Edge版本一致)https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/?form=MA13LH 点此跳转至Edgedriver官网
 
-Python	     Python 3.X
+Python					Python 3.X
 
 功能：自动化论文关键字查询，自动化当月最新论文下载，PDF文件关键字查询
 关键字查询支持：中国知网CNKI，Google学术镜像，IEEE Xplore
