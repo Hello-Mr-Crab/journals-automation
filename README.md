@@ -28,5 +28,5 @@
 #### Optics Express	Optics Express (optica.org)        
 #### IEEE Photonics Technology Letters IEEE Xplore:        IEEE Photonics Technology Letters
 #### -------------------------------------------------------------------------------------------------------------------------------
-![image](https://github.com/Hello-Mr-Crab/journals-automation/blob/main/main_interface.png)
+![image](https://github.com/Hello-Mr-Crab/journals-automation/blob/main/introduction.png)
 
