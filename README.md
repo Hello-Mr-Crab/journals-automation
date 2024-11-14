@@ -1,4 +1,5 @@
 # 项目名称：论文自动化助手 
+![image](https://github.com/Hello-Mr-Crab/pywechat/blob/main/introduction.png)
 ## 项目版本  8.0
 
 ## 环境		    |          	版本
@@ -27,5 +28,5 @@
 #### Optics Express	Optics Express (optica.org)        
 #### IEEE Photonics Technology Letters IEEE Xplore:        IEEE Photonics Technology Letters
 #### -------------------------------------------------------------------------------------------------------------------------------
-
+![image](https://github.com/Hello-Mr-Crab/pywechat/blob/main/main_interface.png)
 
