@@ -1,5 +1,5 @@
 # 项目名称：论文自动化助手 
-![image](https://github.com/Hello-Mr-Crab/journals-automation/blob/main/introduction.png)
+![image](https://github.com/Hello-Mr-Crab/journals-automation/blob/main/main_interface.png)
 ## 项目版本  8.0
 
 ## 环境		    |          	版本
